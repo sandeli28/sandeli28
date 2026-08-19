@@ -1,6 +1,6 @@
 # Hi, I'm Sandeli Tiwari 👋
 
-### AI/ML Engineer | Generative AI | Agentic AI
+### AI/ML Backend Engineer 
 
 I'm a **Computer Science & Engineering (AI/ML) undergraduate** focused on building **production-ready AI systems for real-world business problems**.
 
